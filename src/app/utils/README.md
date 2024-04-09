@@ -1,0 +1,1 @@
+Esta pasta é onde você pode colocar utilitários ou funções auxiliares que são compartilhadas entre vários componentes ou serviços. Eles podem incluir funções de utilidade genéricas, filtros de dados, manipulação de datas, etc.
