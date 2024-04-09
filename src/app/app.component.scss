@@ -1,0 +1,33 @@
+body {
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+
+.conteiner {
+  height: 100vh;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 15% auto;
+  grid-template-rows: 7% auto;
+  grid-template-areas:
+    "ASIDE header header"
+    "ASIDE MAIN MAIN"
+    "ASIDE MAIN MAIN";
+
+  .aside {
+    grid-area: ASIDE;
+    background-color: blueviolet;
+  }
+  .header {
+    grid-area: header;
+    background-color: green;
+  }
+  .main-content {
+    grid-area: MAIN;
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
