@@ -1,0 +1,1 @@
+Esta pasta é onde você mantém os serviços da sua aplicação. Serviços são usados para abstrair a lógica de negócios, acesso a APIs externas, manipulação de dados, etc. Eles geralmente são injetados em componentes ou outros serviços que precisam de sua funcionalidade

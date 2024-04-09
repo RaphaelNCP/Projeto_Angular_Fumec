@@ -1,0 +1,1 @@
+Aqui é onde você define os modelos de dados usados na sua aplicação. Modelos são estruturas de dados que representam entidades do seu sistema. Eles podem ser interfaces TypeScript que definem a estrutura dos dados.

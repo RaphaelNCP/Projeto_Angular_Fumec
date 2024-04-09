@@ -1,0 +1,1 @@
+Este é o local onde você coloca os componentes reutilizáveis da sua aplicação. Cada componente geralmente consiste em um conjunto de arquivos, incluindo um arquivo TypeScript (.ts) para a lógica do componente, um arquivo HTML (.html) para a marcação e um arquivo CSS (.css) para estilos específicos do componente.
