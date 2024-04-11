@@ -17,17 +17,20 @@ body {
 
   .aside {
     grid-area: ASIDE;
-    background-color: blueviolet;
+    background-color: #135d66;
+    color: white;
   }
   .header {
     grid-area: header;
-    background-color: green;
+    background-color: #135d66;
+    color: white;
   }
   .main-content {
     grid-area: MAIN;
-    background-color: yellow;
+    background-color: #e3fef7;
     display: flex;
     align-items: center;
     justify-content: center;
+    color: black;
   }
 }
