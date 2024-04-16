@@ -6,17 +6,21 @@
   gap: 10px;
   color: white;
   font-weight: 700;
+  background-color: #0E46A3;
+
+  *{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
 
   .first_section {
-    background-color: red;
     flex: 1;
   }
   .principal_section {
-    background-color: green;
     flex: 3;
   }
   .footer_section {
-    background-color: blue;
     flex: 1;
   }
 }
