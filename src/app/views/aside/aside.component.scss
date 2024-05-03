@@ -3,24 +3,27 @@
   height: 100%;
   width: 100%;
   flex-direction: column;
-  gap: 10px;
   color: white;
-  font-weight: 700;
-  background-color: #0E46A3;
+  background-color: #141e46;
+  font-size: 4rem;
 
-  *{
+  * {
     display: flex;
     align-items: center;
     justify-content: center;
   }
 
   .first_section {
-    flex: 1;
+    height: 7rem;
+    border-bottom: 2px solid grey;
+    border-top: 2px solid grey;
   }
   .principal_section {
-    flex: 3;
+    height: 7rem;
+    border-bottom: 2px solid grey;
   }
   .footer_section {
-    flex: 1;
+    height: 7rem;
+    border-bottom: 2px solid grey;
   }
 }

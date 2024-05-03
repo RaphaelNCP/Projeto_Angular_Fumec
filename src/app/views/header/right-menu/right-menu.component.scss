@@ -1,0 +1,19 @@
+@import "primeicons/primeicons.css";
+
+.conteiner_left_menu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  gap: 20%;
+  padding-right: 20%;
+  p {
+    font-size: 3.5rem;
+  }
+  span {
+    background-color: #fff5e0;
+    color: #141e46;
+    padding: 15px;
+    border-radius: 50%;
+  }
+}
